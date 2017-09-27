@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cell phones</string>
+    <string name="color">Color</string>
+    <string name="crear">Create</string>
+    <string name="guardar">Saved</string>
+    <string name="limpiar">Clean</string>
+    <string name="listar">To list</string>
+    <string name="marca">Brand</string>
+    <string name="mensaje_exitoso">Successful message</string>
+    <string name="precio">Price</string>
+    <string name="sistemaoperativo">OS</string>
+    <string name="titulo">Title</string>
+</resources>
